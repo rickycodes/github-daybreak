@@ -24,6 +24,10 @@
   border-right: 1px solid #eee !important;
 }
 
+.header-dark .notification-indicator .mail-status {
+  border: none;
+}
+
 ::-webkit-input-placeholder { color:#999 !important; }
 ::-moz-placeholder { color:#999 !important; }
 :-ms-input-placeholder { color:#999 !important; }
