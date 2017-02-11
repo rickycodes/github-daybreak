@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "GitHub™ Daybreak",
+  "description": "leave these new dark ages behind.",
+  "version": "1.0",
+  "content_scripts": [
+    {
+      "matches": ["https://*.github.com/*"],
+      "css": ["style.css"]
+    }
+  ],
+  "permissions": [
+    "activeTab"
+  ]
+}
