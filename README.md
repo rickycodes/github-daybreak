@@ -23,7 +23,8 @@ leave these new dark ages behind.
 ### notes
 
 check the sauce (this is just some simple css)  
-left a content.js for posterity... js one-liner is nice, but it blips!
-i might have missed a thing, if so open an <a href='https://github.com/rickycodes/github-daybreak' target='_blank'>issue</a>
+left a content.js for posterity... js one-liner is nice, but it blips!  
+i might have missed a thing, if so open an <a href='https://github.com/rickycodes/github-daybreak/issues' target='_blank'>issue</a>  
+PRs welcomed  
 this might be configurable from github, but I can't see where? :eyes:  
-probablly works in other browsers?
+probably works in other browsers?
