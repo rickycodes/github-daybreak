@@ -26,7 +26,7 @@
 }
 
 .header .notification-indicator .mail-status {
-  border: none !important;
+  border: 2px solid #f3f3f3;
 }
 
 ::-webkit-input-placeholder { color:#999 !important; }
